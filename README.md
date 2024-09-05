@@ -4,4 +4,4 @@ Hi! I'm Aarav, a machine learning researcher, software developer, and undergradu
 
 SEMPI: A Database for Understanding Social Engagement in Video-Mediated Multiparty Interaction (ICMI 2024)
 
-[Lung Manifestations of COVID-19 on Chest Radiographs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7787585/)
+[Lung Manifestations of COVID-19 on Chest Radiographs (Springer Nature Medical - 2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7787585/)
