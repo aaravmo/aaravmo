@@ -2,6 +2,6 @@ Hi! I'm Aarav, a machine learning researcher, software developer, and undergradu
 
 [Multimodal Speech Recognition for Language-guided Embodied Agents (Interspeech 2023)](https://arxiv.org/abs/2302.14030)
 
-SEMPI: A Database for Understanding Social Engagement in Video-Mediated Multiparty Interaction (ICMI 2024)
+[SEMPI: A Database for Understanding Social Engagement in Video-Mediated Multiparty Interaction (ICMI 2024)](https://dl.acm.org/doi/abs/10.1145/3678957.3685752)
 
 [Lung Manifestations of COVID-19 on Chest Radiographs (Springer Nature Medical - 2021)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7787585/)
