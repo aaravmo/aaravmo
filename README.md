@@ -1,6 +1,6 @@
 Hi! I'm Aarav, a machine learning researcher, software developer, and undergraduate student at USC. Besides the projects visible in my github, you can find some other stuff I've worked on here:
 
-[Mitigating Spurious Correlations in Image Recognition Models using Performance-based Feature Sampling](https://openreview.net/forum?id=DRv8wcssgs)
+[Mitigating Spurious Correlations in Image Recognition Models using Performance-based Feature Sampling (SCSL @ ICLR 2025)](https://openreview.net/forum?id=DRv8wcssgs)
 
 [Multimodal Speech Recognition for Language-guided Embodied Agents (Interspeech 2023)](https://arxiv.org/abs/2302.14030)
 
